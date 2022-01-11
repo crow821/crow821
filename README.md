@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=crow821&repo=crowsec&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=crow821&repo=vulntarget&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=crow821&repo=crowsec&theme=radical&show_icons=true)](https://github.com/crow821/crowsec)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=crow821&repo=vulntarget&theme=radical&show_icons=true)](https://github.com/crow821/vulntarget)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=crow821&repo=mayfly&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=crow821&repo=mayfly&theme=radical&show_icons=true)](https://github.com/crow821/mayfly)
