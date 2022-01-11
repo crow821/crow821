@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **crow821/crow821** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=crow821)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=crow821&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=crow821&repo=crowsec&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=crow821&repo=vulntarget&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=crow821&repo=mayfly&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
