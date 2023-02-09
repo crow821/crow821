@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=crow821)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=crow821&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -23,5 +23,10 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=crow821&repo=crowsec)](https://github.com/crow821/crowsec)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=crow821&repo=vulntarget)](https://github.com/crow821/vulntarget)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=crow821&repo=mayfly)](https://github.com/crow821/mayfly)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=crow821&repo=FakeFlash)](https://github.com/crow821/FakeFlash)
 
+
+
+# star
+
+[![Stargazers over time](https://starchart.cc/crow821.svg)](https://starchart.cc/crow821/crowsec) 
