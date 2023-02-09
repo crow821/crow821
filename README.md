@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 
 
 
-# star
+# starred
 
 [![Stargazers over time](https://starchart.cc/crow821.svg)](https://starchart.cc/crow821/crowsec) 
