@@ -26,7 +26,3 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=crow821&repo=FakeFlash)](https://github.com/crow821/FakeFlash)
 
 
-
-# starred
-
-[![Stargazers over time](https://starchart.cc/crow821.svg)](https://starchart.cc/crow821/crowsec) 
